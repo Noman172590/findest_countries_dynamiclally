@@ -1,0 +1,43 @@
+#name_id{
+
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        gap:10px;
+        margin: 10px 50px;
+        
+
+
+}
+.div{
+    border: 2px solid tomato;
+    text-align: center;
+    border-radius: 9px;
+    padding: 10px;
+}
+.div:hover{
+    border: 2px solid tomato;
+    text-align: center;
+    border-radius: 9px;
+    padding: 10px;
+   
+}
+
+.details_country{
+
+    text-align: center;
+    border: 2px solid red;
+    margin: 10px 400px;
+    padding: 40px;
+    border-radius: 10px;
+}
+.details_country:hover{
+
+    text-align: center;
+    border: 2px solid gray;
+    margin: 10px 400px;
+    padding: 40px;
+    border-radius: 10px;
+    
+
+
+}
