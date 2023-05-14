@@ -4,7 +4,7 @@ const btn=()=>{
     .then(data=>displayData(data))
 }
 
-displayData=(data)=>{
+const displayData=(data)=>{
 
     const divdata=document.getElementById('name_id')
     
